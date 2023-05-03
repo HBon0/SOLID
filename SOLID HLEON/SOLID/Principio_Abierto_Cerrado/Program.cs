@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Principio_Abierto_Cerrado;
 using System.Runtime.CompilerServices;
 
 Invoice invoice = new Invoice();
